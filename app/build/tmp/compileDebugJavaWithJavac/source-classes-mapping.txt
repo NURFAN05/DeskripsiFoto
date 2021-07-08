@@ -1,0 +1,2 @@
+com/azhar/captureimage/BuildConfig.java
+ com.azhar.captureimage.BuildConfig

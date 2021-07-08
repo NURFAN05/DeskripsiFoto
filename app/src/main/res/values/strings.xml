@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DESKRIPSI FOTO</string>
+    <string name="ambil_foto">AMBIL FOTO</string>
+    <string name="todo">TODO</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="tanggal_ambil_gambar">Tanggal Pengambilan Gambar</string>
+    <string name="lokasi_simpan_gambar">Lokasi Penyimpanan Gambar</string>
+    <string name="lokasi_anda">Lokasi Anda</string>
+    <string name="hp_anda">HP Anda</string>
+</resources>
